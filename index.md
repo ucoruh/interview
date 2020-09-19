@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Mülakat Soruları
 
-You can use the [editor on GitHub](https://github.com/ucoruh/interview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ucoruh/interview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Yapılacak işin kapsamı net midir? Bir kişinin birden fazla işle uğraşması gerekiyor mu?
+  
+2. Ne sıklıkla proje veya iş değişikliği yapılıyor?
+  
+3. Deneme süresi ne kadar ve bu süreçteki beklentiniz nedir?
+  
+4. Bünyenizde kullandığınız proje yönetim araçları neler? (jira vb. gibi)
+  
+5. Kendime ait bir masam ve bilgisayarım olacak mı? Ne sıklıkla ofiste yer değişikliği yapılıyor?
+  
+6. Servis ulaşım imkanı var mı? Ulaşım için yakıt veya ulaşım kartı yardımları yapılıyor mu?
+  
+7. Maaş ayın kaçında yatıyor ve sigorta tam ödeniyor mu? Maaş ödemelerinde gecikmeler yaşanıyor mu?
+  
+8. Yemek kartı mevcutmu ? Mevcutsa miktarı ne kadar?
+  
+9. Özel sağlık sigortası sağlanıyor mu ? Ne çeşit sağlık sigortası mevcut? (Tam veya Tamamlayıcı Sağlık Sigortası gibi)
+  
+10. Mesaiye kalmak gerekiyor mu ? Mesaiye kalmak gerekiyorsa ne sıklıkla kalınıyor? Mesaiye kalınca ulaşım ve yemek ihtiyaçları nasıl karşılanıyor?
+  
+11. Mesai ücreti var mı?
+  
+12. Yıllık izin planlaması nasıl? Mazeret izni alınabiliyor mu? Ücretsiz izin imkanı var mı?
+  
+13. Ofis dışına iş amaçlı çıkıldığında ulaşım nasıl sağlanıyor araç mı veriliyor yoksa taksi masrafları mı karşılanıyor?
+  
+14. Firma için yapılan ödemelerin geri ödeme aralığı nedir?
+  
+15. Performans ödül ceza sistemi var mı ? Çalışmaya dayalı prim veriliyor mu?
+  
+16. Firma içinde yaşanan sorunlar ile ilgili belli bir şikayet değerlendirme süreci var mı? Birisiyle sorun yaşasam kiminle muhatap olacağım, yaptırımlar ne olacak
+  
+17. Çalışma saatleri esnek midir
